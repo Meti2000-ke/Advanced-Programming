@@ -1,4 +1,0 @@
-id,description,length,gc_content,at_content,gc_category,starts_with_ATG,length_multiple_of_3,contains_N,reverse_complement,translated_sequence,stop_codon_count
-seq1,seq1 Example sequence 1,20,50.0,50.0,Medium GC,True,False,False,CTAGCTAGCTACGTACGCAT,,0
-seq2,seq2 Example sequence 2,21,61.9,38.1,High GC,True,True,False,CCCGGGTTTAAACCCGGGCAT,MPGFKPG,0
-seq3,seq3 Example sequence 3,21,0.0,100.0,Low GC,False,True,False,TATATATATATATATATATAT,,0
